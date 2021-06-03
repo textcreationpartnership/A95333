@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth appearing through the clouds of undeserved scandal and aspersion. Or, a brief and true account of some particulars clearly evincing the unjustness and illegality of the sentence of ejectment (passed by the commissioners of Berks, appointed to judge of ministers) against Dr. John Pordage of Bradfeild in the same county.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95333</idno><idno type="EEBO-CITATION">99866417</idno>
+  <idno type="VID">168015</idno>
+  <idno type="EEBO-PROQUEST">2240945166</idno>
+  
+            <idno type="STC">Wing T3151</idno>
+            <idno type="STC">Thomason E821_4</idno>
+            <idno type="STC">ESTC R207360</idno>
+            <idno type="PROQUEST">99866417</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866417e"/>
+            <note>(EEBO-TCP ; phase 2, no. A95333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168015)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E821[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth appearing through the clouds of undeserved scandal and aspersion. Or, a brief and true account of some particulars clearly evincing the unjustness and illegality of the sentence of ejectment (passed by the commissioners of Berks, appointed to judge of ministers) against Dr. John Pordage of Bradfeild in the same county.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Yeer 1655. [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Thomason received his copy 22 December 1654.</note>
+                  <note>Annotations on Thomason copy: "Decemb: 22"; the final '5' in the imprint year has been changed to a "4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168015:1"/>
+            <p>TRUTH Appearing thorough the Clouds of Undeserved Scandal And ASPERSION.</p>
+            <p>OR, A Brief and true account of some particulars clearly evincing the unjustness and illegality of the sentence of Ejectment (passed by the Commissioners of <hi>Berks,</hi> appointed to judge of Ministers) against Dr. <hi>JOHN PORDAGE</hi> Of <hi>Bradfeild</hi> in the same County.</p>
+            <p>Printed in the Yeer 165<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:168015:2"/>
+            <pb n="1" facs="tcp:168015:2"/>
+            <head>Truth appearing through the Clouds of underserved scandal and aspersion.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O make this clear, the Reader must take notice, that all things the Doctor was accused of, may be reduced to these three heads; of words, actions, or mental defects which are under the cognizance of these Commissioners▪ onely as they relate to scandal, or ig<g ref="char:EOLhyphen"/>norance, and insufficiency, according to the Letter of the Ordinance.</p>
+            <p>In reference to scandal, nothing of Actions hath been pro<g ref="char:EOLhyphen"/>ved against him, though the accuser raised from the dead, things of nine or ten yeers standing, which he exhibited by way of cir<g ref="char:EOLhyphen"/>stances, all which did not amount to any positive legal charge importing but a Libel.</p>
+            <p>As to words, which by the Commissioners were interpre<g ref="char:EOLhyphen"/>ted scandalous, though the worst of them were not directly included within the Act; all that had any shew of proof, were either in the first or third Charge of Articles, which are not scandalous, but as they are offences against that Act dated 1650. to which the Commission refers, as the rule to judge of scandal.</p>
+            <p>As to the first Charge of Articles, which were chiefly in<g ref="char:EOLhyphen"/>sisted upon in the sentence, the particulars of it were not of<g ref="char:EOLhyphen"/>fences against that forementioned Act, because as the Doctor alleadged, 1. The particulars of it were acknowledged, even
+<pb n="2" facs="tcp:168015:3"/>by the adversaries to be spoken a yeer before the Being of that Act. Now there can be no guilt contracted from any Law, as to any thing committed before the Being of that Law except some determined retrospect be expressed in it. 2. None can be rende<g ref="char:EOLhyphen"/>red guilty by that Act, that are not accused within six mo<g ref="char:EOLhyphen"/>neths after the offence committed; now it is five or six yeers since those things were pretended to be spoken by the Doctor. 3. They onely are obnoxious to guilt by that Act, that avow<g ref="char:EOLhyphen"/>edly maintain or hold forth the things there expressed; now he never avowedly maintained the things he is there accused of, but hath oft avowed and maintained the contrary.</p>
+            <p>Again, the Doctor hath been acquitted of this first Charge of Articles by two Committees already, and first by the Committee of <hi>Berks,</hi> and that after a Sermon preached at <hi>Redding,</hi> by the appointment of the Committee, in which he solemnly vindicated himself from the horrid imputation of denying the Godhead of Christ, of which he was then ac<g ref="char:EOLhyphen"/>cused from some words he spake in a dispute before the same Committee; and for which, as the chief thing expressed in the sentence, he is now judged scandalous and ejected.</p>
+            <p>And after this by the Committee of plundered Ministers, from whom after full examination and proof of witnesses, 32 then sitting in Committee, he was compleatly acquitted, receiving legal discharge, which he produced before the present Com<g ref="char:EOLhyphen"/>missioners of <hi>Berks,</hi> alleadging that it was against Reason, Law, the Liberty of the Subject, and that known maxime of <hi>Magna Charta, (Nemo bis punietur, pro uno delicto:</hi> No man shall be twice punished for one offence) to take those Ar<g ref="char:EOLhyphen"/>ticles into their cognizance again, or put him to the trouble and charges of making a new defence. Yet notwithstand<g ref="char:EOLhyphen"/>ing they traversed this over again, and made it the chiefest ground of their sentence of ejectment, though besides the for<g ref="char:EOLhyphen"/>mer just and legal Pleas, he produced witnesses, who attested on oath, that he limitted and explained the chief assertions (which concerned the Godhead of Christ) for which he was accused, in the same discourse, the accuser alledged, he spake them.</p>
+            <p>Now as to the third charge, that which was of most weight,
+<pb n="3" facs="tcp:168015:3"/>yet not within the Act of scandal, was some words pretended to be spoken to a woman of <hi>Redding</hi> in a private discourse, about four yeers since, which may with a charitable constru<g ref="char:EOLhyphen"/>ction, as may be seen in the Doctors answer, bear an harmless sense.</p>
+            <p>Now these words were attested by a single witness onely, (who is known to be a very passionate woman, and so subject to mistakes) without any concurrent testimony, which accor<g ref="char:EOLhyphen"/>ding to the Ordinance its self is not a sufficient proof; more<g ref="char:EOLhyphen"/>over, this woman delivering upon oath a known untruth, had by four witnesses been proved perjured, and so an insufficient witness, had not the Commissioners, by the earnest perswa<g ref="char:EOLhyphen"/>sion of the accuser (who was joyned in Commission as an as<g ref="char:EOLhyphen"/>sistant to them, and objected that one of the witnesses was an Herberist) against Law and Reason, absolutely denyed to re<g ref="char:EOLhyphen"/>ceive their testimony, though it was much urged, and that justly, by the defendant.</p>
+            <p>Moreover, in reference to those things in both Charges, that had any shew of proof brought of them, he had present di<g ref="char:EOLhyphen"/>vers witnesses to attest upon Oath, that the tenor of his Mi<g ref="char:EOLhyphen"/>nistry hath been in particular contrary to the things they sen<g ref="char:EOLhyphen"/>tenced him for; which testimony they rejected as impertinent, and would not hear the evidence of the witnesses, who came in upon that account, as relying more upon some words pre<g ref="char:EOLhyphen"/>tended to be spoken in a private discourse, or a sudden dispute, then upon the avowed judgement of a man; frequently, pub<g ref="char:EOLhyphen"/>likely, and solemnly held forth.</p>
+            <p>To second which intended evidence, he gave in a very so<g ref="char:EOLhyphen"/>lemn Protestation, in which he disowned and rejected those strange opinions, his enemies accused him of, and condemned him for, and declared that the contrary truths were his avowed judgement: which is very considerable, in regard the Ordi<g ref="char:EOLhyphen"/>nance judgeth onely those, who shall be found, <hi>holding and maintaining,</hi> the particulars expressed in the former Act.</p>
+            <p>Besides this, to leave his Judges inexcusable, whom he found by their carriage all along to be exceedingly resolved and pre<g ref="char:EOLhyphen"/>judiced against him, though he really stood in his innocency, he craved the priviledge of the Act of General pardon, in refe<g ref="char:EOLhyphen"/>rence
+<pb n="4" facs="tcp:168015:4"/>to all words pretended to be spoken before 1651. as all those were, which seemed material, or any way related to scan<g ref="char:EOLhyphen"/>dal.</p>
+            <p>As to that head of ignorance and insufficiency for the Mini<g ref="char:EOLhyphen"/>stery, which was an Article of the last Charge contrived to prejudice and defame the Doctor in the day of sentence; There was a fellow brought to prove it, by some Allegoricall interpretations of Scripture, which he affirmed were delivered by the Doctor in preaching, with the holding forth of some<g ref="char:EOLhyphen"/>what touching Christs mystical birth, death, and resurrection in us.</p>
+            <p>Against whose testimony it was objected, that the deponent not writing down what he there attested, could not be able exactly to remember so much as he there deposed. 2. That either the Commissioners should not receive his testimony to write any thing in sentence and judgement, or else give the Doctor time to make his defence, by comparing what the de<g ref="char:EOLhyphen"/>ponent had witnessed with what others had wrote, who con<g ref="char:EOLhyphen"/>stantly take notes from him. 3. That the deponent was a known drunkard, and so an insufficient witness in things of that nature.</p>
+            <p>But notwithstanding this, and whatever hath been before declared, they proceeded to sentence that day, being Friday <hi>December</hi> the eighth, judging the Doctor to be scandalous, though nothing criminous was proved in reference to that Act which is the rule to judge of scandal; and also ignorant and very insufficient for the Ministery, without ever proceeding to examination, against the express Letter of their Commission, and without any colour of Reason in the judgement of all unbyassed persons, who understand the Import of those terms, as making a distinct head from scandal, together with the Do<g ref="char:EOLhyphen"/>ctors gifts and qualifications, compared with the gifts of ma<g ref="char:EOLhyphen"/>ny of those, who esteem themselves, and are esteemed by others, able Ministers of the Gospel.</p>
+            <p>But before sentence, the Commissioners appointed one Mr. <hi>Ford</hi> (who had shewn himself in a Sermon at the Assizes to be a bitter enemy against the Doctor) to make a kind of speech to the people, in which he was to exhibit the reasons
+<pb n="5" facs="tcp:168015:4"/>of the sentence; who there laboured with much earnestness and seeming zeal, to prevaricate whatever had been rationally and legally alleged on the Doctors behalf; but how he managed this discourse, whether wisely or passionately, truly or in disguises, according to Law or against it, like a Divine as he called him<g ref="char:EOLhyphen"/>self, or a fierce opinionist, let all sober persons judge, that were present. But this is certain, that among many other things which were very unsavoury to knowing and unbyassed spirits, he asserted, that although many of the proofs, brought against the Doctor, were not proofs according to Law, yet to the Commissioners, who are a Court of Equity, and of an Ecclesiastical jurisdiction, and so not obliged to judge accor<g ref="char:EOLhyphen"/>ding to positive Laws and Statutes, they were and might be esteemed sufficient proofs: which speech let those judge of who understand the Liberty of the Subject, and the danger of those proceedings, which are steered by will and arbitrary de<g ref="char:EOLhyphen"/>terminations, though against law and reason.</p>
+            <p>To the sentence, six Commissioners and seven Ministers a<g ref="char:EOLhyphen"/>greed, one of which Commissioners had been witness against the Doctor, who openly declared in the Court, That he ne<g ref="char:EOLhyphen"/>ver heard of any other death and resurrection of Christ, then what was at Jerusalem, notwithstanding these and other Scri<g ref="char:EOLhyphen"/>ptures, <hi>Heb.</hi> 6.6. <hi>Rev.</hi> 7.8. Another of them who was Chair<g ref="char:EOLhyphen"/>man in the time of sentence, had threatned him before his tryal, to cast him out of his Living, at the sitting of this Parliament; who also at the Doctors first appearing before him, told him in a passionate manner, that he was worst then a Felon, for ought he knew. Of the Ministers two had been witnesses, being both prejudiced persons, but one of them a professed enemy of the Doctors, who some yeers since sadly scandalized him in print, a third as far as yet can be known, was the accuser himself, who all the while sate as an assistant to to the Judges, and had great influence upon their proceedings, sometimes breaking forth in the open Court in bitter railing expressions against the Doctors person and family, who yet was admitted as a witness by the Commissioners, but could at<g ref="char:EOLhyphen"/>test nothing of his own knowledge, only hear sayes from others which are no testimones, but meerly stories, and weigh no<g ref="char:EOLhyphen"/>thing
+<pb n="6" facs="tcp:168015:5"/>in Law, yet were taken as evidence against the Do<g ref="char:EOLhyphen"/>ctor, as the very sentence expresseth.</p>
+            <p>To conclude, 'tis very well known that his Judges were prejudiced persons, carrying things very rigidly and harshly thoroughout the whole tryal, some of them, both Ministers and others, shewing their inward temper by sharp and bitter expressions, which oft fell from them, and by their readiness to catch every word the Doctor spake, which they could take hold on, and to throw it from one to another by their glosses and paraphrases: And it was observed that there was hardly one word ever heard spoken for the Doctor by any of the Commissioners thorough the whole trial, except the first day, when there were two sober men present, who much opposed the rest of the Commissioners, in reference to that charge of Articles the Doctor had been legally acquitted of before, but seeing the carriage of the rest, confessed they found them re<g ref="char:EOLhyphen"/>solved and wholly bent to bear down whatever might seem to make for the Doctor: and so sate no more amongst them.</p>
+            <p>Much more might be said of this subject, and of those mon<g ref="char:EOLhyphen"/>strous scandals and aspersions, which are everywhere spread abroad against the Doctor, by subtle and malitious persons, to overcloud his innocency, and so prejudice all against him, that none might shew him either mercy, or justice. But the Doctor intending to set forth at large a Relation of the whole business, this was judged sufficient by some friends, to go forth as a <hi>Prodromus</hi> to the other, by which some of that prejudice may be taken away from the spirits of those who have been mis-informed by the Doctors enemies, touching this tryal, who think to make their own cause good, by representing his as very bad: but certainly the time will come, when his pretended guilt will appear to be innocency, and their innocency but vailed guilt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
